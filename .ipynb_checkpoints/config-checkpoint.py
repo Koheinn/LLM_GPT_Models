@@ -1,2 +1,0 @@
-api_key="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"
-github_token="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"
